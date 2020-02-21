@@ -1,5 +1,5 @@
 {
-  "name": "ngx-wysiwyg-md-editor",
+  "name": "ngx-wysiwyg-markdown-editor",
   "version": "0.0.1",
   "resolutions": {
     "squire-rte": "^1.9.0"
