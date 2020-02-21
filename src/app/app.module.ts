@@ -1,4 +1,4 @@
-import { NgxWysiwygMdEditorModule } from './../../projects/ngx-wysiwyg-md-editor/src/lib/ngx-wysiwyg-md-editor.module';
+import { NgxWysiwygMdEditorModule } from './../../projects/ngx-wysiwyg-markdown-editor/src/lib/ngx-wysiwyg-md-editor.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
