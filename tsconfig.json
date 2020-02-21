@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-wysiwyg-md-editor": [
+        "dist/ngx-wysiwyg-md-editor"
+      ],
+      "ngx-wysiwyg-md-editor/*": [
+        "dist/ngx-wysiwyg-md-editor/*"
+      ]
+    }
   }
 }
