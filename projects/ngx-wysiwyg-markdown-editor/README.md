@@ -2,6 +2,16 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.10.
 
+# Installation
+
+Run `npm i ngx-wysiwyg-markdown-editor` in your Angular 8 project.
+
+Import `NgxWysiwygMdEditorModule` to your module.
+
+# Usage
+
+Use **ngxWysiwygMdEditor** as a directive or attribute.
+
 ## Code scaffolding
 
 Run `ng generate component component-name --project ngx-wysiwyg-md-editor` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ngx-wysiwyg-md-editor`.
