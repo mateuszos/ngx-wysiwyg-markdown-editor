@@ -135,7 +135,7 @@
         }
       }
     },
-    "ngx-wysiwyg-md-editor": {
+    "lib": {
       "root": "projects/ngx-wysiwyg-markdown-editor",
       "sourceRoot": "projects/ngx-wysiwyg-markdown-editor/src",
       "projectType": "library",
